@@ -33,3 +33,6 @@ the output files will be on folder `./outputs`.
 ./output/client
 ```
 
+## Authors
+
+- [@Shrey](https://www.github.com/shrey0303)
